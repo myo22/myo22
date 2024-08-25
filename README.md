@@ -1,6 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to myo's Github%20render&fontSize=90" />
+  
 </div>
 
 <!--내용 부분-->
@@ -60,6 +62,8 @@
       src="https://img.shields.io/badge/dlalsgud12@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
 
 <div align="center">
   
