@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" />&nbsp
 </div>
 
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -47,7 +46,6 @@
 </div>
 
 <br>
--->
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
