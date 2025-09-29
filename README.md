@@ -16,7 +16,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@dlalsgud12"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>
-  <a href="mailto:dlalsgud12@naver.com"><img src="https://img.shields.io/badge/dlalsgud12@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:rlaalsgud0125@gmail.com"><img src="https://img.shields.io/badge/rlaalsgud0125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br>
